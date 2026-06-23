@@ -1,4 +1,4 @@
-import { Enemy } from "./enemy";
+import { Enemy } from "./characters/enemy";
 
 const slime = new Enemy("スライム", 50);
 slime.showStatus();
